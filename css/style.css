@@ -84,6 +84,9 @@ a:hover {
     background-size: cover;   
 }
 
+
+
+
 .title {
     -webkit-align-self: center;
     -ms-flex-item-align: center;
@@ -267,8 +270,17 @@ nav ul a:hover {
 
 
 #about {
-    padding: 100px 0 50px 0;
-        color: #000;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100vh;
+    background: url(../img/bg1.jpg);
+    background-size: cover;  
 }
 
 
