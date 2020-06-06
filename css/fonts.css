@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('../font/AvenirLTStd-Roman.eot');
+    src: url('../font/AvenirLTStd-Roman.eot?#iefix') format('embedded-opentype'),
+        url('../font/AvenirLTStd-Roman.woff') format('woff'),
+        url('../font/AvenirLTStd-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('../font/AvenirLTStd-Black.eot');
+    src: url('../font/AvenirLTStd-Black.eot?#iefix') format('embedded-opentype'),
+        url('../font/AvenirLTStd-Black.woff') format('woff'),
+        url('../font/AvenirLTStd-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir LT Std';
+    src: url('../font/AvenirLTStd-Book.eot');
+    src: url('../font/AvenirLTStd-Book.eot?#iefix') format('embedded-opentype'),
+        url('../font/AvenirLTStd-Book.woff') format('woff'),
+        url('../font/AvenirLTStd-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
