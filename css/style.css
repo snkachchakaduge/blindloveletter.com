@@ -279,8 +279,8 @@ nav ul a:hover {
     -ms-flex-pack: center;
     justify-content: center;
     height: 100vh;
-    background: url(../img/bg1.jpg);
-    background-size: cover;  
+    background: url(../img/bg1.jpeg);
+    background-size: cover;   
 }
 
 
@@ -440,7 +440,7 @@ pre, blockquote, dl, figure, table, p, ul, ol, form {
     padding-top: 100px;
 }
 .mb-100 {
-    margin-bottom: 100px;
+    margin-bottom: 60px;
 }
 a {
     text-decoration: none;
